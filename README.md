@@ -4,7 +4,8 @@
 
 To sketch the given drawing with dimensions using fusion 360 tool.
 
-## REQUIREMENTS
+## REQUIREMENTS![EDM 1 1 design_page-0001](https://user-images.githubusercontent.com/115523950/215529657-9cb70dbd-0b3d-48f7-b1ae-70d1a16d1a3a.jpg)
+
 
   1. Autodesk fusion 360
   2. Windows 10
@@ -43,7 +44,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-![EXPERIMENT 1_page-0001](https://user-images.githubusercontent.com/115523950/210712751-45414ba9-6a20-4111-9372-ea36e0a1fbcf.jpg)
+
+![EDM 1 1 design_page-0001](https://user-images.githubusercontent.com/115523950/215529797-c1c4725f-d390-423d-9bb3-d9632321e478.jpg)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
